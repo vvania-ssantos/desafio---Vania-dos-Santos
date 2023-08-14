@@ -1,0 +1,21 @@
+{
+  "name": "lanchonetedb",
+  "version": "1.0.0",
+  "description": "Projeto LanchoneteDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vvania-ssantos"
+  },
+  "keywords": [
+    "caixa",
+    "da",
+    "lanchonete",
+    "DB"
+  ],
+  "author": "Vania dos Santos",
+  "license": "ISC"
+}
